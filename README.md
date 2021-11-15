@@ -1,5 +1,4 @@
-# TestingStuff
+# Untitled Shop Game
 
-Nunya
+John is a nerd.
 
-pomarf is a nerd
